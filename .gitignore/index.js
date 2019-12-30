@@ -200,4 +200,4 @@ client.on("message", function (message) {
 })
 
 //LOGIN
-client.login('NjUwOTk0MzIyMjEyMzg4ODk0.XeTb0w.gn6KuPHh2DwQb7p1Ih49_AApGtA')
+client.login(process.env.TOKEN)
